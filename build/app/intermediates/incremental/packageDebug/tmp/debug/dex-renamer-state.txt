@@ -1,0 +1,4 @@
+#Mon Mar 08 18:20:50 BRT 2021
+base.0=C\:\\Users\\leonardo.silva\\Desktop\\SimPaul\\flutter_projects\\flutter_barcode_scanning\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
